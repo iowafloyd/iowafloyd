@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iowafloyd
-- SpaceFrog is my avatar. Because I love space and I love frogs. All amphibians, really.
-- But frogs especially because, well, frogs.
 - I'm a mechanical engineer by day, and a coder by night.
 - Excel and VBA are my go-to work "dev environment" as it is for most engineers.
 - Mostly because IT won't let me code with the fun tools.
 - At home, though, I love both Python/ML and web design, in about equal measure.
 - 📫 You can reach me at iowafloyd@gmail.com
+- Shine on, you crazy diamond!
